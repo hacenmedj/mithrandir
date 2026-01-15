@@ -1,0 +1,4 @@
+source,target,relation
+Alice,Bob,collaborates
+Bob,Charlie,reports_to
+Alice,Charlie,reports_to

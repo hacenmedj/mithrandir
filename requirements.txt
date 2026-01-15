@@ -1,0 +1,13 @@
+streamlit==1.53.0
+pandas==2.3.3
+networkx==3.6.1
+plotly==6.5.2
+fastapi==0.128.0
+uvicorn==0.40.0
+rich==14.2.0
+#streamlit → UI
+#pandas → data
+#networkx → graph
+#plotly → graph interactif
+#fastapi / uvicorn → API (même si pas utilisée en prod Streamlit)
+#rich → affichage CLI (safe)
